@@ -115,7 +115,7 @@ npm run build
 
 ## Live Demo
 
-🌐 https://firebase-authentication-app-ten.vercel.app/login
+🌐 https://firebase-authentication-app-ten.vercel.app/
 
 ---
 
