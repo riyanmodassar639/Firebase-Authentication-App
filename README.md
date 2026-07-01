@@ -61,7 +61,7 @@ my-app/
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/firebase-auth-notes-app.git
+git clone https://github.com/riyanmodassar639/firebase-auth-notes-app.git
 ```
 
 Navigate to the project
@@ -115,7 +115,7 @@ npm run build
 
 ## Live Demo
 
-🌐 https://your-live-demo-link.vercel.app/
+🌐 https://firebase-authentication-app-ten.vercel.app/
 
 ---
 
